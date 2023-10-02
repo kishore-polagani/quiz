@@ -4,6 +4,7 @@
 - Click the "Start" button to begin the quiz.
 
 - Answer each question by selecting one of the provided options and clicking the "Submit" button.
+- Use the "Next" button to navigate to the next question after submitting your answer.
 
 - Complete all questions to see your final score.
 
